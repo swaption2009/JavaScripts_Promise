@@ -1,0 +1,29 @@
+{
+  "name": "javascript_promise",
+  "version": "1.0.0",
+  "description": "practice wrapping promise function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swaption2009/JavaScripts_Promise.git"
+  },
+  "keywords": [
+    "javascript",
+    "promise"
+  ],
+  "author": "Ron H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swaption2009/JavaScripts_Promise/issues"
+  },
+  "homepage": "https://github.com/swaption2009/JavaScripts_Promise#readme",
+  "devDependencies": {
+    "eslint": "^3.7.1",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
